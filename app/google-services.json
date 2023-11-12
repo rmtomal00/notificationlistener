@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752520943382",
+    "project_id": "notification-listener-228ba",
+    "storage_bucket": "notification-listener-228ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752520943382:android:b8183eeadc7cee31ede237",
+        "android_client_info": {
+          "package_name": "com.notificationlistemer.tomal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752520943382-vrrmfobgnq81vhh5uja056vmsnft2u04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYuHvPwAOHDX1CVj75wgPkQscxgYom3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752520943382-vrrmfobgnq81vhh5uja056vmsnft2u04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
